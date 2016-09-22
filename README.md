@@ -2,6 +2,4 @@
 
 > WeApp Quick Start APP Code
 
-Copy from IDE
-
-path :app/dist/weapp/quick
+从“微信Web开发者”工具中拷贝出来的，路径 app/dist/weapp/quick
