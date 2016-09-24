@@ -12,5 +12,6 @@
 
 1. [微信小程序「官方示例代码」浅析【上】](https://zhuanlan.zhihu.com/p/22574282?refer=phodal)
 2. [微信小程序剖析【下】：运行机制](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974093&idx=1&sn=0570a243304ea8bb7d1b636624886fb1&scene=21#wechat_redirect)
+3. [「微信小程序」剖析（二）：框架原理 | 在桌面浏览器上运行的尝试](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974111&idx=1&sn=93a868cdb59b5dd77c65c7a5303e6e31#rd)
 
 
